@@ -1,2 +1,1 @@
-Not very experienced.
-Endeavour OS
+Not very experienced. Artix Linux
